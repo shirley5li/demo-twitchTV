@@ -26,4 +26,4 @@ Due to a change in conditions on API usage explained here Twitch.tv now requires
 
 [demo on github pages]( https://shirley5li.github.io/demo-twitchTV/index.html)
 
-[demo on codepen](https://codepen.io/freecodecampcoder_shirley/pen/jaGYJO)
+[demo on codepen](https://codepen.io/shirley5li/full/jaGYJO/)
